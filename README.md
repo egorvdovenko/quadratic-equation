@@ -1,5 +1,7 @@
 # quadratic-equation
 
+[![Coverage Status](https://coveralls.io/repos/github/egorvdovenko/quadratic-equation/badge.svg?branch=main)](https://coveralls.io/github/egorvdovenko/quadratic-equation?branch=main)
+
 ## Project setup
 ```
 npm install
