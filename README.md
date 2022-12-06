@@ -2,6 +2,8 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/egorvdovenko/quadratic-equation/badge.svg?branch=main)](https://coveralls.io/github/egorvdovenko/quadratic-equation?branch=main)
 
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=egorvdovenko_quadratic-equation&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=egorvdovenko_quadratic-equation)
+
 ## Project setup
 ```
 npm install
