@@ -1,7 +1,9 @@
 # quadratic-equation
 
 [![Coverage Status](https://coveralls.io/repos/github/egorvdovenko/quadratic-equation/badge.svg?branch=main)](https://coveralls.io/github/egorvdovenko/quadratic-equation?branch=main)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=egorvdovenko_quadratic-equation&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=egorvdovenko_quadratic-equation)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=egorvdovenko_quadratic-equation&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=egorvdovenko_quadratic-equation)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=egorvdovenko_quadratic-equation&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=egorvdovenko_quadratic-equation)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=egorvdovenko_quadratic-equation&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=egorvdovenko_quadratic-equation)
 
 ## Project setup
 ```
