@@ -11,6 +11,13 @@ async function setArguments (wrapper, { a, b, c }) {
 
 describe('QuadraticEquation.vue', () => {
   describe('корректное вычисление', () => {
+    it('если a == 0', async () => {
+      const wrapper = mount(QuadraticEquation)
+      await setArguments(wrapper, { a: 0, b: 1, c: 2 })
+
+      expect(wrapper.componentVM.D).toBeUndefined()
+      expect(wrapper.componentVM.roots).toEqual([])
+    })
     describe('полного квадратного уравнения', () => {
       it('если D > 0', async () => {
         const wrapper = mount(QuadraticEquation)
