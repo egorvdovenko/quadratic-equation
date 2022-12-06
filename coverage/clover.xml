@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1670254395364" clover="3.2.0">
-  <project timestamp="1670254395364" name="All files">
+<coverage generated="1670308640937" clover="3.2.0">
+  <project timestamp="1670308640937" name="All files">
     <metrics statements="17" coveredstatements="17" conditionals="12" coveredconditionals="12" methods="4" coveredmethods="4" elements="33" coveredelements="33" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
     <file name="QuadraticEquation.vue" path="/Users/egorvdovenko/Repos/quadratic-equation/src/components/QuadraticEquation.vue">
       <metrics statements="17" coveredstatements="17" conditionals="12" coveredconditionals="12" methods="4" coveredmethods="4"/>
